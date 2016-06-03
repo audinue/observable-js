@@ -13,5 +13,16 @@
   },
   "devDependencies": {
     "webpack": "^1.13.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audinue/observable-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/audinue/observable-js/issues"
+  },
+  "homepage": "https://github.com/audinue/observable-js#readme"
 }
