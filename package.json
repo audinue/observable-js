@@ -1,0 +1,17 @@
+{
+  "name": "observable-js",
+  "version": "0.1.0",
+  "description": "Observable mixin.",
+  "main": "observable.js",
+  "scripts": {
+    "test": "test\\test.cmd"
+  },
+  "author": "Audi Nugraha <audinue@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "utility-js": "^0.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
