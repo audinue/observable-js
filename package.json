@@ -1,10 +1,10 @@
 {
   "name": "observable-js",
-  "version": "0.1.0",
-  "description": "Observable mixin.",
+  "version": "0.2.0",
+  "description": "Observable mixins.",
   "main": "src/index.js",
   "scripts": {
-    "test": "test/test.cmd"
+    "test": "node test\\test.js"
   },
   "author": "Audi Nugraha <audinue@gmail.com>",
   "license": "MIT",

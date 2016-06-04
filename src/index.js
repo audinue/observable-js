@@ -1,4 +1,5 @@
 
-exports.observable       = requre('./observable').observable;
-exports.observableObject = requre('./observable-object').observableObject;
-exports.observableArray  = requre('./observable-array').observableArray;
+exports.observable = require('./observable')
+exports.observableObject = require('./observable-object')
+exports.observableArray = require('./observable-array')
+exports.convert = require('./convert')
